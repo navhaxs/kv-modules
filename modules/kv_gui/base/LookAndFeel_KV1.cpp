@@ -415,7 +415,7 @@ void LookAndFeel_KV1::drawTabButton (TabBarButton& button, Graphics& g, bool isM
     }
     else
     {
-        Point<int> p1, p2;
+        juce::Point<int> p1, p2;
 
         switch (o)
         {
